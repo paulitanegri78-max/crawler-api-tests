@@ -46,7 +46,7 @@ npm install
 Crie um arquivo `.env` na raiz do projeto:
 
 ```env
-BASE_URL=http://localhost:3000
+BASE_URL=http://localhost:4567
 ```
 
 A variável `BASE_URL` define a URL base da API que será utilizada durante a execução dos testes.
